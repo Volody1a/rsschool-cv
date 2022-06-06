@@ -1,1 +1,1 @@
-https://Volody1a.github.io/rsschool-cv/cv
+https://Volody1a.github.io/rsschool-cv/cv.md
